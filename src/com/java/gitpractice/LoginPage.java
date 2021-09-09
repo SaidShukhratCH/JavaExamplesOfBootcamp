@@ -5,5 +5,6 @@ public class LoginPage {
 		System.out.println("username");
 		System.out.println("password");
 		System.out.println("login btn");
+		System.out.println("Forget password feature dev is completed");
 	}
 }
