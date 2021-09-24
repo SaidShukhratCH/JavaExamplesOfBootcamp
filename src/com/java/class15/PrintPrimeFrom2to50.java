@@ -10,7 +10,7 @@ public class PrintPrimeFrom2to50 {
 		}
 	}
 
-	static boolean isPalindrom(int num) {
+	 static boolean isPalindrom(int num) {
 		int rev = 0;
 		int backup = num;
 
