@@ -4,7 +4,7 @@ public class Car {
 	String color;
 	String model;
 	String gearType;
-	int year;
+	public int year;
 	int maxSpeed;
 	boolean isCruseControlProvided;
 
