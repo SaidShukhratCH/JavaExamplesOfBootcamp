@@ -1,6 +1,6 @@
 package com.java.class27;
 
-public class MultipleException {
+public class Homework_Exception {
 	public static void main(String[] args) {
 		int i = 5, j = 0;
 
