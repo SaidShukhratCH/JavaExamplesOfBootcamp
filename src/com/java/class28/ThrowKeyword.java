@@ -1,8 +1,11 @@
 package com.java.class28;
 
+import java.util.Scanner;
+
 public class ThrowKeyword {
 	public static void main(String[] args) throws Exception {
-		int day = 13;
+		Scanner sc = new Scanner(System.in);
+		int day = sc.nextInt();
 
 		switch (day) {
 		case 0:

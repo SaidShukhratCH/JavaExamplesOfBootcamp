@@ -1,9 +1,11 @@
 package com.java.class28;
 
 public class ExceptionRevision {
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException {
 		int i = 15, j = 3;
 		int a[] = new int[5];
+		
+		Thread.sleep(3000);
 
 		try {
 			System.out.println(i / j); // Arithmetic Exception
